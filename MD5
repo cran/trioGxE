@@ -1,0 +1,16 @@
+70cf796362441a5ba2042e1a365208e6 *DESCRIPTION
+bbb3a1c6d2aaa867ed44444469a814f2 *NAMESPACE
+3019a2169571340aad53f8ec4c90e96a *R/CubicSplineBasisFuncs.R
+fc8bd095b292a387590664567a975157 *R/plot.trioGxE.R
+e35cda36406684fd2fa1f475e4e7bd5f *R/test.trioGxE.R
+d393b4d4757e3f9cb8a2bac4f86bb1ed *R/trioGxE.R
+352dc486014a10d60963f9ed8ba11f1b *R/trioGxE_fcns.R
+58bafee7167c3837ef8067bcc649acaa *R/trioSim.R
+f0fa72332a6a7578b21c7d80e2bea34d *R/trioplot_mgcv.R
+5bdd009bc40c789884bd700814df7642 *data/hypoTrioDat.txt.gz
+f9d35d986f9a198a0301e21da54a6ece *man/hypoTrioDat.Rd
+a87379f637781e4048f02e89acd8e82f *man/plot.trioGxE.Rd
+44e62b34c99e9cb054ac765155005f9c *man/test.trioGxE.Rd
+c2a3904d8c526e7eacf6de067af3c0ac *man/trioGxE-internal.Rd
+6b67b4404d0ff852677f0259e3157fa0 *man/trioGxE.Rd
+a6da0429210dd01b14bc0fb9367cf42b *man/trioSim.Rd

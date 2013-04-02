@@ -1,0 +1,2 @@
+export(trioGxE, plot.trioGxE, test.trioGxE, trioSim)
+S3method(plot, trioGxE)
